@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715607664536,
+      "tag": "0000_sleepy_inhumans",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1715608252120,
+      "tag": "0001_famous_anthem",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1717149927246,
+      "tag": "0002_sad_swarm",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1717154171610,
+      "tag": "0003_yielding_ricochet",
+      "breakpoints": true
+    }
+  ]
+}
